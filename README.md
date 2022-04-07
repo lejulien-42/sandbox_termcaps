@@ -6,7 +6,9 @@
 ![sandbox](sandbox.png)
 
 <h6>  Installation :</h6>
-<p>   - gcc main.c && ./a.out</p>
+```
+<p>gcc main.c && ./a.out<p>
+```
 <h6>  Menu :</h6>
 <p>   - SPACE to enter edit mode</p>
 <p>   - ESCAPE to enter live mode</p>
