@@ -5,7 +5,6 @@
 
 ![sandbox](sandbox.png)
 
-<h6>Usage :</h6>
 <h6>  Menu :</h6>
 <p>   - SPACE to enter edit mode</p>
 <p>   - ESCAPE to enter live mode</p>
